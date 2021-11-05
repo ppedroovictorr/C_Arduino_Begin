@@ -1,0 +1,18 @@
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.exe
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.pdb
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.xml
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.Form1.resources
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.Resources.resources
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.vbproj.GenerateResource.Cache
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.exe
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.xml
+C:\Users\Cristiano\Documents\empresa\Conaeng\Aulas\Modulo_3\subir\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.pdb
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.exe
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.xml
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.pdb
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.exe
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.pdb
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\bin\Debug\aula19resolvida.xml
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.Form1.resources
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.Resources.resources
+E:\07 - CURSO PROGRAMAÇÃO ARDUINO\aula 18 arduino vb\aula19resolvida\aula19resolvida\aula19resolvida\obj\x86\Debug\aula19resolvida.vbproj.GenerateResource.Cache
